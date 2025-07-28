@@ -12,7 +12,7 @@ export default defineConfig({
       includeAssets: [
         'icon/icon-192.png',
         'icon/icon-512.png',
-        'vite.svg' // Optional: add other public assets here if needed
+        'favicon.png' // Optional: add other public assets here if needed
       ],
       manifest: {
         name: 'Monopoly Deluxe Companion',
